@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, Python, C++, C#, Data Science
 - 🌱 I’m currently learning Python, Machine Learning
 - 💞️ I’m looking to collaborate on projekts to Machine Learning
-- 📫 How to reach me https://vk.com/fileno4ca
+- 📫 How to reach me: vk: https://vk.com/fileno4ca, tg: @alekseyfilenkov
 
 I`m junior in programming.
 <!---
