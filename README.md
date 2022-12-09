@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aleshka5
-- 👀 I’m interested in ML, Python, C++, C#, Data Science
+- 👀 I’m interested in Python, ML, Data Science
 - 🌱 I’m currently learning Python, Machine Learning
 - 💞️ I’m looking to collaborate on projekts to Machine Learning
 - 📫 How to reach me: vk: https://vk.com/fileno4ca, tg: @alekseyfilenkov
